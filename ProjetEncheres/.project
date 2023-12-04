@@ -1,23 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ProjetEncheres_ProjetEncheres</name>
+=======
+	<name>ProjetEncheres</name>
+>>>>>>> 92c6664645ad8c7f20c0a3a9a617ff202f217fa4
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.jdt.core.javabuilder</name>
+=======
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+>>>>>>> 92c6664645ad8c7f20c0a3a9a617ff202f217fa4
 			<arguments>
 			</arguments>
 		</buildCommand>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+=======
+			<name>org.eclipse.jdt.core.javabuilder</name>
+>>>>>>> 92c6664645ad8c7f20c0a3a9a617ff202f217fa4
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+>>>>>>> 92c6664645ad8c7f20c0a3a9a617ff202f217fa4
 	</natures>
 </projectDescription>
